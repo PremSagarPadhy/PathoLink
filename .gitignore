@@ -1,0 +1,18 @@
+# Model weights
+*.pt
+
+# Training outputs
+runs/
+working/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (optional if large)
+images/
+labels/
