@@ -1,0 +1,10 @@
+names:
+  0: Abrasion
+  1: Filling
+  2: Crown
+  3: Caries
+nc: 4
+path: G:/FRP 2026/AlphaDent
+test: images/valid_640
+train: images/train_640
+val: G:\FRP 2026\AlphaDent\outputs\temp_val_dataset\images
